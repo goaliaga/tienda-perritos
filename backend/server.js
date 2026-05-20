@@ -1,4 +1,4 @@
-//version 2
+//version 2 se agrego db_host
 const express = require("express");
 const cors = require("cors");
 const mysql = require("mysql2/promise");
